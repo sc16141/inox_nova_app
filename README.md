@@ -11,7 +11,7 @@ This is a Flutter-based booking and QR attendance app with Razorpay integration.
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](assets/screenshots/assets/screenshot/Screenshot 2025-09-03 211305.png)
+https://github.com/sc16141/inox_nova_app/tree/main/assets/screenshot
 
 ### Dashboard
 ![Dashboard](assets/screenshots/home.png)
