@@ -11,7 +11,7 @@ This is a Flutter-based booking and QR attendance app with Razorpay integration.
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](assets/screenshots/login.png)
+![Login](assets/screenshots/assets/screenshot/Screenshot 2025-09-03 211305.png)
 
 ### Dashboard
 ![Dashboard](assets/screenshots/home.png)
