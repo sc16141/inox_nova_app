@@ -1,16 +1,24 @@
-# inox_nova
+# Inox Nova Flutter App
 
-A new Flutter project.
+This is a Flutter-based booking and QR attendance app with Razorpay integration.
 
-## Getting Started
+## 🚀 Features
+- 🔐 Login / Signup with Firebase
+- 📅 Booking management
+- 📷 QR Code generation and scanning
+- 💳 Razorpay payment integration
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Login Screen
+![Login](assets/screenshots/login.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Dashboard
+![Dashboard](assets/screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
