@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52261670345",
+    "project_id": "code-x-novas",
+    "storage_bucket": "code-x-novas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52261670345:android:e4eb056be85acc80262c18",
+        "android_client_info": {
+          "package_name": "com.example.inox_nova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2cauoAvA2dEDbBHta0iXSn2zhNC4074I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
